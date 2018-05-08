@@ -7,6 +7,8 @@ Working in Java generics is making my head spin.  I'm going to post what I have,
 
 All methods currently included do work (but they haven't been thoroughly tested) on at minimum string arrays.
 
+Maybe if I'm interested later on, I'll package this up so it's modular, like JavaScript's Lodash is, so you'd only have to import whichever functions you'd want to use.
+
 ## Usage
 Simply include the ArrayLibrary.java in your working folder.  Maybe later I'll make into a proper package.  Call a method as follows
 
